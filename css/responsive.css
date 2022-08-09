@@ -178,6 +178,10 @@ html {
     .bottom p {
         font-size: 3.2vw;
     }
+    /************************* GALLERY*************************************/
+    #gallery {
+        padding-top: 14vh;
+    }
     /************************* CONTACT PAGE*************************************/
     #contact-page {
         padding-top: 14vh;
